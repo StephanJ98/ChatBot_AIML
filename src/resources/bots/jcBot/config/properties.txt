@@ -1,0 +1,20 @@
+url:http://alazar.es
+name:Sua
+email:master@gmail.com
+gender:male
+botmaster:Diego Stephan Jeandon Rodriguez
+organization:ESEI-UNIVERSIDADE DE VIGO
+version:2.0
+age:19
+job:Estudiante
+ocio:Deporte
+estudios:Informática
+curso:quinto
+procedencia:Saint-Louis, Alsacia (Francia)
+address:Edificio Politécnico D-407, As Lagoas s/n, 32004 Ourense, Galiza (Spain)
+date:201402
+processor:Intel i7-6500U
+madre:ines
+madre:ines
+madre:ines
+madre:ines
